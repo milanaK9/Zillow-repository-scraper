@@ -9,8 +9,10 @@ Price,Address,Bedrooms,Bathrooms,Living Area (sqft),Latitude,Longitude,Property 
 "$1,349,900","17642 Calvert St, Encino, CA 91316",4,3,1611 sqft,34.18155,-118.51775,https://www.zillow.com/homedetails/17642-Calvert-St-Encino-CA-91316/19966296_zpid/
 "$5,995,000","3659 Shannon Rd, Los Angeles, CA 90027",6,6,6408 sqft,34.11907,-118.27554,https://www.zillow.com/homedetails/3659-Shannon-Rd-Los-Angeles-CA-90027/20811608_zpid/
 "$5,298,000","4113 Woodman Ave, Sherman Oaks, CA 91423",5,6,5273 sqft,34.145298,-118.430984,https://www.zillow.com/homedetails/4113-Woodman-Ave-Sherman-Oaks-CA-91423/19985272_zpid/
+"$10,450","1104 Casiano Rd, Los Angeles, CA 90049",4,4,2650 sqft,34.081005,-118.469055,https://www.zillow.com/homedetails/1104-Casiano-Rd-Los-Angeles-CA-90049/20528677_zpid/
 "$249,999","13691 Gavina Ave UNIT 444, Sylmar, CA 91342",3,2,1624 sqft,34.316757,-118.403885,https://www.zillow.com/homedetails/13691-Gavina-Ave-UNIT-444-Sylmar-CA-91342/136709563_zpid/
 "$839,000","619 1/4 N Sycamore Ave, Los Angeles, CA 90036",2,2,1196 sqft,34.082485,-118.34317,https://www.zillow.com/homedetails/619-1-4-N-Sycamore-Ave-Los-Angeles-CA-90036/455160775_zpid/
+"$4,995,000","2132 Walnut Ave, Venice, CA 90291",5,6,4100 sqft,33.998493,-118.45217,https://www.zillow.com/homedetails/2132-Walnut-Ave-Venice-CA-90291/20453125_zpid/
 "$1,049,000","1032 Glen Arbor Ave, Los Angeles, CA 90041",3,2,1222 sqft,34.133263,-118.187874,https://www.zillow.com/homedetails/1032-Glen-Arbor-Ave-Los-Angeles-CA-90041/20769212_zpid/
 "$1,092,000","2353 Lucerne Ave, Los Angeles, CA 90016",2,2,1092 sqft,34.035854,-118.34268,https://www.zillow.com/homedetails/2353-Lucerne-Ave-Los-Angeles-CA-90016/20596162_zpid/
 "$749,000","1006 N Beverly Glen Blvd, Los Angeles, CA 90077",2,1,994 sqft,34.09364,-118.43971,https://www.zillow.com/homedetails/1006-N-Beverly-Glen-Blvd-Los-Angeles-CA-90077/20529873_zpid/
@@ -25,7 +27,7 @@ Price,Address,Bedrooms,Bathrooms,Living Area (sqft),Latitude,Longitude,Property 
 "$119,950","8250 Lankershim Blvd #36, North Hollywood, CA 91605",2,2,672 sqft,34.220783,-118.38796,https://www.zillow.com/homedetails/8250-Lankershim-Blvd-36-North-Hollywood-CA-91605/455099222_zpid/
 "$1,295,000","4559 E Rose Hill Dr, Los Angeles, CA 90032",4,3,1805 sqft,34.084427,-118.19287,https://www.zillow.com/homedetails/4559-E-Rose-Hill-Dr-Los-Angeles-CA-90032/20689632_zpid/
 "$364,900","13691 Gavina Ave UNIT 574, Sylmar, CA 91342",3,2,1652 sqft,34.317696,-118.40216,https://www.zillow.com/homedetails/13691-Gavina-Ave-UNIT-574-Sylmar-CA-91342/136709683_zpid/
-$0,"1500 W 186th St, Gardena, CA 90248",5,3,1868 sqft,33.861763,-118.30282,https://www.zillow.com/homedetails/1500-W-186th-St-Gardena-CA-90248/20981759_zpid/
+N/A,"1500 W 186th St, Gardena, CA 90248",5,3,1868 sqft,33.861763,-118.30282,https://www.zillow.com/homedetails/1500-W-186th-St-Gardena-CA-90248/20981759_zpid/
 "$126,000,000","9505 Gloaming Dr, Beverly Hills, CA 90210",8,20,30610 sqft,34.116695,-118.40275,https://www.zillow.com/homedetails/9505-Gloaming-Dr-Beverly-Hills-CA-90210/2054444989_zpid/
 "$77,500,000","9966 Beverly Grove Dr, Beverly Hills, CA 90210",6,13,15700 sqft,34.09388,-118.426765,https://www.zillow.com/homedetails/9966-Beverly-Grove-Dr-Beverly-Hills-CA-90210/119920526_zpid/
 "$1,135,000","12122 Ivy Pl, Los Angeles, CA 90064",3,2,1057 sqft,34.022484,-118.44478,https://www.zillow.com/homedetails/12122-Ivy-Pl-Los-Angeles-CA-90064/20463071_zpid/
@@ -33,6 +35,7 @@ $0,"1500 W 186th St, Gardena, CA 90248",5,3,1868 sqft,33.861763,-118.30282,https
 "$69,995,000","1420 Davies Dr, Beverly Hills, CA 90210",8,14,21800 sqft,34.098576,-118.43304,https://www.zillow.com/homedetails/1420-Davies-Dr-Beverly-Hills-CA-90210/20523735_zpid/
 "$2,250,000","6105 Mulholland Hwy, Los Angeles, CA 90068",3,4,2515 sqft,34.130997,-118.32098,https://www.zillow.com/homedetails/6105-Mulholland-Hwy-Los-Angeles-CA-90068/20806334_zpid/
 "$200,000","240 Robinson St, Los Angeles, CA 90026",8,8,7896 sqft,34.075127,-118.28209,https://www.zillow.com/homedetails/240-Robinson-St-Los-Angeles-CA-90026/2099867488_zpid/
+"$500,000","10331 Lindley Ave UNIT 219, Porter Ranch, CA 91326",3,2,1074 sqft,34.25822,-118.52741,https://www.zillow.com/homedetails/10331-Lindley-Ave-UNIT-219-Porter-Ranch-CA-91326/20167693_zpid/
 "$137,500,000","594 S Mapleton Dr, Los Angeles, CA 90024",14,27,56500 sqft,34.07333,-118.42828,https://www.zillow.com/homedetails/594-S-Mapleton-Dr-Los-Angeles-CA-90024/20524417_zpid/
 "$1,099,000","2919 Gleneden St, Los Angeles, CA 90039",3,2,1484 sqft,34.10697,-118.2489,https://www.zillow.com/homedetails/2919-Gleneden-St-Los-Angeles-CA-90039/35971354_zpid/
 "$49,995,000","10066 Cielo Dr, Beverly Hills, CA 90210",9,18,21000 sqft,34.093983,-118.432236,https://www.zillow.com/homedetails/10066-Cielo-Dr-Beverly-Hills-CA-90210/243990393_zpid/
@@ -53,6 +56,7 @@ $0,"1500 W 186th St, Gardena, CA 90248",5,3,1868 sqft,33.861763,-118.30282,https
 "$749,900","13451 Beaver St, Sylmar, CA 91342",3,1,1022 sqft,34.314507,-118.42607,https://www.zillow.com/homedetails/13451-Beaver-St-Sylmar-CA-91342/20073717_zpid/
 "$5,798,000","2417 Nottingham Ave, Los Angeles, CA 90027",4,4,4270 sqft,34.11249,-118.30188,https://www.zillow.com/homedetails/2417-Nottingham-Ave-Los-Angeles-CA-90027/20808651_zpid/
 "$79,000,000","9904 Kip Dr, Beverly Hills, CA 90210",10,22,24757 sqft,34.10128,-118.43296,https://www.zillow.com/homedetails/9904-Kip-Dr-Beverly-Hills-CA-90210/20523467_zpid/
+"$949,000","5656 Cartwright Ave, North Hollywood, CA 91601",4,3,2049 sqft,34.17382,-118.363464,https://www.zillow.com/homedetails/5656-Cartwright-Ave-North-Hollywood-CA-91601/20040675_zpid/
 "$24,995,000","900 Napoli Dr, Pacific Palisades, CA 90272",5,7,7167 sqft,34.04415,-118.506966,https://www.zillow.com/homedetails/900-Napoli-Dr-Pacific-Palisades-CA-90272/20538969_zpid/
 "$68,000,000","9330 Flicker Way, West Hollywood, CA 90069",9,14,N/A,34.09659,-118.3935,https://www.zillow.com/homedetails/9330-Flicker-Way-West-Hollywood-CA-90069/2059262429_zpid/
 "$399,000","8713 Cedros Ave, Panorama City, CA 91402",2,2,1100 sqft,34.228878,-118.45442,https://www.zillow.com/homedetails/8713-Cedros-Ave-Panorama-City-CA-91402/20134316_zpid/
@@ -72,6 +76,7 @@ $0,"1500 W 186th St, Gardena, CA 90248",5,3,1868 sqft,33.861763,-118.30282,https
 "$599,000","2019 Hyperion Ave, Los Angeles, CA 90027",2,1,760 sqft,34.098564,-118.274506,https://www.zillow.com/homedetails/2019-Hyperion-Ave-Los-Angeles-CA-90027/20746854_zpid/
 "$2,650,000","5457 Encino Ave, Encino, CA 91316",2,2,2260 sqft,34.170666,-118.515656,https://www.zillow.com/homedetails/5457-Encino-Ave-Encino-CA-91316/19978427_zpid/
 "$1,150,000","18620 Citronia St, Northridge, CA 91324",3,2,1917 sqft,34.244976,-118.53899,https://www.zillow.com/homedetails/18620-Citronia-St-Northridge-CA-91324/20175648_zpid/
+"$1,295,000","4815 Buchanan St, Los Angeles, CA 90042",2,2,1150 sqft,34.12066,-118.211006,https://www.zillow.com/homedetails/4815-Buchanan-St-Los-Angeles-CA-90042/20766570_zpid/
 "$17,888,000","7305 Pyramid Pl, Los Angeles, CA 90046",7,9,9200 sqft,34.120335,-118.35177,https://www.zillow.com/homedetails/7305-Pyramid-Pl-Los-Angeles-CA-90046/95637520_zpid/
 "$495,000","8551 Lookout Mountain Ave, Los Angeles, CA 90046",2,1,825 sqft,34.11312,-118.38017,https://www.zillow.com/homedetails/8551-Lookout-Mountain-Ave-Los-Angeles-CA-90046/20800226_zpid/
 "$1,495,000","6180 Rockcliff Dr, Los Angeles, CA 90068",2,2,1477 sqft,34.127785,-118.32064,https://www.zillow.com/homedetails/6180-Rockcliff-Dr-Los-Angeles-CA-90068/20806598_zpid/
@@ -338,7 +343,6 @@ $399K,"1435 W 30th St, Los Angeles, CA 90007",5,3,2352 sqft,34.027424,-118.29558
 "$1,399,000","325 N Wilton Pl, Los Angeles, CA 90004",4,4,2485 sqft,34.076935,-118.31383,https://www.zillow.com/homedetails/325-N-Wilton-Pl-Los-Angeles-CA-90004/20782172_zpid/
 "$1,399,000","8383 Westlawn Ave, Los Angeles, CA 90045",4,2,1585 sqft,33.960705,-118.40651,https://www.zillow.com/homedetails/8383-Westlawn-Ave-Los-Angeles-CA-90045/20383988_zpid/
 "$1,450,000","18830 Beechtree Ln, Porter Ranch, CA 91326",5,5,3521 sqft,34.263657,-118.54366,https://www.zillow.com/homedetails/18830-Beechtree-Ln-Porter-Ranch-CA-91326/20166350_zpid/
-"$34,995,000","1680 N Doheny Dr, Los Angeles, CA 90069",5,8,13500 sqft,34.1021,-118.3882,https://www.zillow.com/homedetails/1680-N-Doheny-Dr-Los-Angeles-CA-90069/249228521_zpid/
 "$399,000","8148 Redlands St APT 104, Playa Del Rey, CA 90293",1,1,450 sqft,33.95616,-118.4375,https://www.zillow.com/homedetails/8148-Redlands-St-APT-104-Playa-Del-Rey-CA-90293/20387602_zpid/
 "$799,000","9436 Natick Ave, North Hills, CA 91343",4,2,1864 sqft,34.241844,-118.456726,https://www.zillow.com/homedetails/9436-Natick-Ave-North-Hills-CA-91343/20133161_zpid/
 "$1,399,000","19009 Celtic St, Porter Ranch, CA 91326",4,3,2154 sqft,34.2692,-118.54657,https://www.zillow.com/homedetails/19009-Celtic-St-Porter-Ranch-CA-91326/20161716_zpid/
@@ -651,7 +655,6 @@ $399K,"1435 W 30th St, Los Angeles, CA 90007",5,3,2352 sqft,34.027424,-118.29558
 "$1,395,000","3559 Casitas Ave, Los Angeles, CA 90039",3,3,1884 sqft,34.120888,-118.25718,https://www.zillow.com/homedetails/3559-Casitas-Ave-Los-Angeles-CA-90039/325797073_zpid/
 "$1,499,000","13940 Chandler Blvd, Van Nuys, CA 91401",4,3,2310 sqft,34.168095,-118.437,https://www.zillow.com/homedetails/13940-Chandler-Blvd-Van-Nuys-CA-91401/19974672_zpid/
 "$3,999,999","14071 Roblar Rd, Sherman Oaks, CA 91423",7,6,4095 sqft,34.14473,-118.43973,https://www.zillow.com/homedetails/14071-Roblar-Rd-Sherman-Oaks-CA-91423/19985393_zpid/
-"$4,650,000","3813 Ronda Vista Pl, Los Angeles, CA 90027",5,4,4071 sqft,34.1048,-118.27586,https://www.zillow.com/homedetails/3813-Ronda-Vista-Pl-Los-Angeles-CA-90027/452056063_zpid/
 "$599,000","1615 W 39th Pl, Los Angeles, CA 90062",3,3,1721 sqft,34.013985,-118.30946,https://www.zillow.com/homedetails/1615-W-39th-Pl-Los-Angeles-CA-90062/20580670_zpid/
 "$1,595,000","16942 Livorno Dr, Pacific Palisades, CA 90272",N/A,N/A,N/A,34.042885,-118.54798,https://www.zillow.com/homedetails/16942-Livorno-Dr-Pacific-Palisades-CA-90272/20542439_zpid/
 "$2,850,000","2820 Westshire Dr, Los Angeles, CA 90068",4,5,3642 sqft,34.121758,-118.320404,https://www.zillow.com/homedetails/2820-Westshire-Dr-Los-Angeles-CA-90068/20806740_zpid/
@@ -802,7 +805,6 @@ $399K,"1435 W 30th St, Los Angeles, CA 90007",5,3,2352 sqft,34.027424,-118.29558
 "$15,750,000","1420 Moraga Dr, Los Angeles, CA 90049",6,8,8938 sqft,34.092167,-118.46802,https://www.zillow.com/homedetails/1420-Moraga-Dr-Los-Angeles-CA-90049/20530504_zpid/
 "$2,499,000","268 S Norton Ave, Los Angeles, CA 90004",5,3,3174 sqft,34.069145,-118.31666,https://www.zillow.com/homedetails/268-S-Norton-Ave-Los-Angeles-CA-90004/20779961_zpid/
 "$1,675,000","3488 Troy Dr, Los Angeles, CA 90068",4,4,3340 sqft,34.136395,-118.34344,https://www.zillow.com/homedetails/3488-Troy-Dr-Los-Angeles-CA-90068/20805103_zpid/
-"$899,000","2015 Hyperion Ave, Los Angeles, CA 90027",2,1,756 sqft,34.098724,-118.274925,https://www.zillow.com/homedetails/2015-Hyperion-Ave-Los-Angeles-CA-90027/20746852_zpid/
 "$899,000","4531 Gateside Dr, Los Angeles, CA 90032",3,2,1236 sqft,34.0673,-118.18642,https://www.zillow.com/homedetails/4531-Gateside-Dr-Los-Angeles-CA-90032/20640237_zpid/
 "$974,500","4831 1/2 Craner Ave, North Hollywood, CA 91601",3,4,1717 sqft,34.157906,-118.369286,https://www.zillow.com/homedetails/4831-1-2-Craner-Ave-North-Hollywood-CA-91601/325798026_zpid/
 "$649,000","11427 Tampa Ave UNIT 76, Porter Ranch, CA 91326",3,3,1409 sqft,34.27653,-118.559814,https://www.zillow.com/homedetails/11427-Tampa-Ave-UNIT-76-Porter-Ranch-CA-91326/20154743_zpid/
@@ -817,5 +819,3 @@ $399K,"1435 W 30th St, Los Angeles, CA 90007",5,3,2352 sqft,34.027424,-118.29558
 "$260,000","28 Dover Dr, Northridge, CA 91324",3,2,1176 sqft,34.232162,-118.55059,https://www.zillow.com/homedetails/28-Dover-Dr-Northridge-CA-91324/136689155_zpid/
 "$775,000","8515 Mammoth Ave, Panorama City, CA 91402",3,2,1579 sqft,34.225178,-118.43453,https://www.zillow.com/homedetails/8515-Mammoth-Ave-Panorama-City-CA-91402/20123902_zpid/
 "$7,798,000","1135 Ravoli Dr, Pacific Palisades, CA 90272",5,5,4259 sqft,34.050735,-118.508644,https://www.zillow.com/homedetails/1135-Ravoli-Dr-Pacific-Palisades-CA-90272/111919186_zpid/
-"$2,998,000","1611 Sunset Plaza Dr, Los Angeles, CA 90069",4,4,2808 sqft,34.100456,-118.380974,https://www.zillow.com/homedetails/1611-Sunset-Plaza-Dr-Los-Angeles-CA-90069/20798151_zpid/
-"$27,950,000","1504 N Kenter Ave, Los Angeles, CA 90049",6,10,11461 sqft,34.081837,-118.49316,https://www.zillow.com/homedetails/1504-N-Kenter-Ave-Los-Angeles-CA-90049/20559578_zpid/
