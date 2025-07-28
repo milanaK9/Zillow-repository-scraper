@@ -4,6 +4,9 @@ from marshal import dumps
 
 import requests
 import playwright
+from openpyxl import load_workbook
+from openpyxl.styles import Font, Alignment
+from openpyxl.utils import get_column_letter
 from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 
@@ -21,7 +24,7 @@ from typing import Any, Optional
 from curl_cffi import requests
 from playwright.sync_api import sync_playwright
 
-sq = input("Enter search query")
+sq = "los angeles ca"
 
 def get_zillow_json(url):
     with sync_playwright() as p:
@@ -79,18 +82,49 @@ for i in range(total_pages):
             "Bedrooms": prop.get("beds", "N/A"),
             "Bathrooms": prop.get("baths", "N/A"),
             "Living Area (sqft)": str(prop.get("area")) + " sqft" if prop.get("area", None) else "N/A",
-            "Property Link": prop.get("detailUrl", ""),
             "Latitude": prop.get("latLong", {}).get("latitude"),
             "Longitude": prop.get("latLong", {}).get("longitude"),
+            "Property Link": prop.get("detailUrl", ""),
         })
 
-
+for prop in props:
+    price = prop.get("Price")
+    # Sometimes price can be a string with $ or a number, handle both
+    if not price or str(price).strip() in ["$0", "0", "0.0", 0]:
+        prop["Price"] = "N/A"
 
 import pandas as pd
 
 df = pd.DataFrame(props)
 df.to_excel("properties.xlsx", index=False)
+def format_excel_file(filename="properties.xlsx"):
+    wb = load_workbook(filename)
+    ws = wb.active
 
+    # Bold and center headers
+    for cell in ws[1]:
+        cell.font = Font(bold=True)
+        cell.alignment = Alignment(horizontal="center")
+
+    # Auto-fit columns and make Property Link clickable
+    for col_idx, col_cells in enumerate(ws.columns, start=1):
+        max_len = 0
+        col_letter = get_column_letter(col_idx)
+        header = col_cells[0].value.lower() if col_cells[0].value else ""
+
+        for cell in col_cells:
+            val = str(cell.value) if cell.value else ""
+            if header == "property link" and val.startswith("http"):
+                cell.hyperlink = val
+                cell.style = "Hyperlink"
+            max_len = max(max_len, len(val))
+
+        ws.column_dimensions[col_letter].width = max_len + 2
+
+    wb.save(filename)
+    print(f"✅ Excel file formatted and saved: {filename}")
+
+format_excel_file("properties.xlsx")
 import csv
 
 keys = props[0].keys()  # column headers
